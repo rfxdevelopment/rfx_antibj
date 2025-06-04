@@ -3,7 +3,7 @@ game       'gta5'
 lua54      'yes'
 
 Author     'OrionNetworkStore'
-           'Zhunx'
+           'AlejoSPlaza'
            
 description 'Script Anti Bunny Jump'
 
