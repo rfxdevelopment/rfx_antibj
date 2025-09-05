@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game       'gta5'
 lua54      'yes'
 
-Author     'OrionNetworkStore'
-           'AlejoSPlaza'
+Author     'KRKN Studios'
+           'Gavbz'
            
 description 'Script Anti Bunny Jump'
 
