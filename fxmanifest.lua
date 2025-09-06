@@ -3,7 +3,6 @@ game       'gta5'
 lua54      'yes'
 
 Author     'KRKN Studios'
-           'Gavbz'
            
 description 'Script Anti Bunny Jump'
 
