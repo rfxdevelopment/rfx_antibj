@@ -1,14 +1,14 @@
 # rfx_antibj
 AntiBJ, a project created to prevent people from abusing BunnyJumps on your FiveM server.
 
-ANTI BUNNY JUMP FiveM Script By KRKN Studios
+ANTI BUNNY JUMP FiveM Script By RFX Dev
 
 Quick Setup
 
 1. Download The File
 2. Paste it in your resources folder
 3. OPTIONAL - Edit "NumberJump"
-4. ensure "kraken_antibj" on your server.cfg
+4. ensure "rfx_antibj" on your server.cfg
 
 Copyright © All rights reserved.
 
