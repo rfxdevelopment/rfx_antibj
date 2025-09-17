@@ -1,4 +1,4 @@
-# kraken_antibj
+# rfx_antibj
 AntiBJ, a project created to prevent people from abusing BunnyJumps on your FiveM server.
 
 ANTI BUNNY JUMP FiveM Script By KRKN Studios
