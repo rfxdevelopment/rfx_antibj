@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game       'gta5'
 lua54      'yes'
 
-Author     'KRKN Studios'
+Author     'Takes Five Interactive'
            
 description 'Script Anti Bunny Jump'
 
